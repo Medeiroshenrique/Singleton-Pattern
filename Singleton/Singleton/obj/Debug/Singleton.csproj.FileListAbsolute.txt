@@ -1,0 +1,6 @@
+/home/henriquemedeiros/RiderProjects/Singleton/Singleton/bin/Debug/Singleton.exe
+/home/henriquemedeiros/RiderProjects/Singleton/Singleton/bin/Debug/Singleton.pdb
+/home/henriquemedeiros/RiderProjects/Singleton/Singleton/obj/Debug/Singleton.csproj.AssemblyReference.cache
+/home/henriquemedeiros/RiderProjects/Singleton/Singleton/obj/Debug/Singleton.csproj.CoreCompileInputs.cache
+/home/henriquemedeiros/RiderProjects/Singleton/Singleton/obj/Debug/Singleton.exe
+/home/henriquemedeiros/RiderProjects/Singleton/Singleton/obj/Debug/Singleton.pdb
