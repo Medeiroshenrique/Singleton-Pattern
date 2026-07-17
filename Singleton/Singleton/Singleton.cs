@@ -6,6 +6,12 @@ namespace Singleton
     {
         private static Singleton instance = null;
 
+
+        private Singleton()
+        {
+            
+        }
+        
         public static Singleton GetInstance
         {
             get
@@ -17,8 +23,6 @@ namespace Singleton
                     Console.WriteLine("Single instance created.");
                     Console.ResetColor();
                 }
-                    
-
                 return instance;
             }
         }
