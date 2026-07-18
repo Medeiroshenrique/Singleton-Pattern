@@ -12,7 +12,7 @@ namespace Singleton
             
         }
         
-        public static Singleton GetInstance
+        public static Singleton Instance
         {
             get
             {
